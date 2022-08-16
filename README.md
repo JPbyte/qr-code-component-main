@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Mobile design
 
-![](design/mobile-design.jpg)
+![](qr-code-component-main/design/mobile-design.jpg)
 
 Desktop design
 
-![](design/desktop-design.jpg)
+![](qr-code-component-main/design/desktop-design.jpg)
 
 ### Links
 
